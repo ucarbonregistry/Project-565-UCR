@@ -51,3 +51,36 @@ Since the project activity generates electricity through Roof-top grid connected
 
 a clean renewable energy source it will not cause any negative impact on the environment and
 thereby contributed to climate change mitigation efforts. 
+_________
+ISSUANCE DATE: 18/05/26
+
+MP-01: 01/09/2021-31/12/2024
+
+QTY: 4610
+_______________
+
+Serial Number: 0001-000001-000446-UCR-CoU-IN-565-01092021-31122021
+
+Vintage Year: 2021
+
+Quantity: 446
+______________
+Serial Number: 0001-000447-001980-UCR-CoU-IN-565-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 1534
+_____________
+Serial Number: 0001-001981-003402-UCR-CoU-IN-565-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 1422
+______________
+Serial Number: 0001-003403-004610-UCR-CoU-IN-565-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 1208
+______________
+
